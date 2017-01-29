@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header {
+	background: #1d4d9b;
+	width: 100%;
+	padding-top: 8px;
+	color: white;
+	text-align: center;
+}
+
+#job {
+	font-size: 60px;
+	font-family: segoe ui, arial;
+	color: dimgray;
+	text-align: center;
+	margin-top: 90px;
+}
+
+#logout {
+	font-size: 30px;
+	font-family: segoe ui light, arial;
+	color: dimgrey;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: lightblue;
+}

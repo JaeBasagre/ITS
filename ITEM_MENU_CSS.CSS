@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: darkgray;
+}
+
+#body_main {
+	font-family: segoe ui light;
+	font-size: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	
+}
+
+a:hover {
+	color: aliceblue;
+}
+
+#textsearch {
+	border-bottom-left-radius: 3px;
+	
+}

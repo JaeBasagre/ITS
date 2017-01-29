@@ -1,0 +1,77 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header {
+	background: #1d4d9b;
+	width: 100%;
+	padding: 40px 0;
+	color: white;
+	
+	
+	
+}
+
+#titlead {
+	text-align: left;
+	font-size: 40px;
+	margin-left: 20px;
+	font-family: segoe ui, arial;
+}
+
+#fill_up {
+	font-family: segoe ui light, arial;
+	height: 200px;
+	width: 600px;
+	margin-top: 70px;
+	margin-left: 170px;
+	font-size: 25px;
+	
+	float: left;
+	
+}
+
+#sgntxt {
+	color: dodgerblue;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	font-family: segoe ui , arial;
+	width: 260px;
+	
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	
+	border: 0.5;
+	box-shadow: none;
+}
+
+#buttons {
+	background: gray;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	
+	height: 50px;
+	width: 100px;
+	
+	border: 0;
+	box-shadow: none;
+	
+	font-family: century gothic;
+	font-size: 25px;
+	color: whitesmoke;
+}
+
+#logo {
+margin-top: 50px;
+	margin-left: 150px;
+	float: left;
+	padding-bottom: 0px;
+}

@@ -1,0 +1,101 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header {
+	background: #1d4d9b;
+	width: 100%;
+	padding: 40px 0;
+	color: white;
+	text-align: center;
+	
+}
+
+#fill_up {
+	
+	height: 200px;
+	width: 200px;
+	margin-top: 150px;
+	margin-left: 200px;
+	
+	float: left;
+	
+}
+
+#txtboxes{
+	
+	color: dodgerblue;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 20px;
+	font-family: segoe ui , arial;
+	width: 260px;
+	
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	
+	border: 0.5;
+	box-shadow: none;
+}
+
+#btlogin {
+	background: gray;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px;
+	
+	height: 50px;
+	width: 260px;
+	
+	border: 0;
+	box-shadow: none;
+	
+	font-family: century gothic;
+	font-size: 25px;
+	color: whitesmoke;
+}
+
+a {
+	text-decoration: none;
+}
+
+#below {
+	font-size: 15px;
+	
+}
+
+#logo {
+	margin-top: 80px;
+	margin-left: 200px;
+	float: left;
+	padding-bottom: 0px;
+}
+
+@media screen and (max-width: 1000px) {
+	header {
+		width: 100%;
+	}
+	
+	#fill_up {
+		width: 100%;
+		padding-left: 50px;
+		box-sizing: border-box;
+	}
+		
+}
+
+a:hover {
+	color: lightblue;
+}
+
+#aa {
+	font-size: 100px;
+}
+
+
